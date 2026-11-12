@@ -16,6 +16,7 @@ int main(){
             flag=0;
         }
     }
+    //Testing git commit
     if(flag==1){
         printf("strcmp=%d",strcmp);
     }
